@@ -1,0 +1,22 @@
+#summary One-sentence summary of this page.
+#labels GAE,Django,Python
+
+= 简介 =
+
+整个项目是用来备份学习Django-On-Gae的过程。开发环境用的是Emacs,需要的话可以访问，http://code.google.com/p/phodal-emacs 我的Emacs配置，不过比较推荐的是Purcell .emacs.d
+登录：https://github.com/purcell/emacs.d
+复制方法：git clone git://github.com/purcell/emacs.d
+配置得很是不错，Linux下面建议可以到这个地方下载http://code.google.com/p/dea/
+
+= 详情 =
+
+这只是用来测试及学习用的:
+  *基本元素*Google-app-engine-django* 详细 _http://code.google.com/p/google-app-engine-django/ _
+  *使用的压缩可以参考 *http://code.google.com/appengine/articles/django10_zipimport.html* 这个说明。
+
+= 细节 =
+
+可以自由使用，当然了。
+
+=关于django.contrib.admin=
+听说是被Google禁用了。详细可以参考一下这http://code.google.com/intl/zh-CN/appengine/articles/django10_zipimport.html个网址。
